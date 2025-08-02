@@ -332,19 +332,18 @@ int main(){
 //     cout<< endl<<endl<<endl;
 
 // // 22th pattern
-//     int n = 5;
-//     for(int i=0;i<2*n-1; i++){
-//         for(int j=0;j<2*n-1;j++){
-//             int top = i;
-//             int left = j;
-//             int bottom=2*n-2-i;
-//             int right = 2*n-2-j;
-//             int a =4-min(min(top,bottom),min(right,left));
-//             cout<<a<<" ";
-//         }
-//         cout<<endl;
-//     }
+    // int n = 5;
+    // for(int i=0;i<2*n-1; i++){
+    //     for(int j=0;j<2*n-1;j++){
+    //         int top = i;
+    //         int left = j;
+    //         int bottom=2*n-2-i;
+    //         int right = 2*n-2-j;
+    //         int a =4-min(min(top,bottom),min(right,left));
+    //         cout<<a<<" ";
+    //     }
+    //     cout<<endl;
+    // }
 //     cout<< endl<<endl<<endl;
-
 
 }
