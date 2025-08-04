@@ -17,6 +17,8 @@ int main(){
     cout<<v1[6].second<<endl;
 
     // Iterators
+    vector<int>::iterator it=v1.begin();
+    it++;
 
 
 }
