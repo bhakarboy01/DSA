@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+    // Vectors and Pairs
     vector<pair<int,int>> v1(5,{10,6});
     cout<<v1[3].second<<" ";
     cout<<v1[3].first<<endl;
@@ -14,4 +15,8 @@ int main(){
     v1.push_back({3,4});
     cout<<v1[6].first<<" ";
     cout<<v1[6].second<<endl;
+
+    // Iterators
+
+
 }
